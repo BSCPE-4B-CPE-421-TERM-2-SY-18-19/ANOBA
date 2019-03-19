@@ -1,0 +1,5 @@
+OBSERVATION:
+	Therefore I conclude that the raspberry pi is funcional because there is an output and with the right source and correct voltage.
+	The mouse and keyboard are connected/attached to it are also functional.
+	The operating system is properly installed.
+	And the other components are in good condition.

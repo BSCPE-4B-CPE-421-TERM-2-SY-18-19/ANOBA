@@ -1,0 +1,5 @@
+OBSERVATION:
+	I observe that the CPU is not functional.
+	It is because some of the components in the CPU is broken/damage like fuse and capacitor.
+	We need to replace the damaged components.
+	If it is not replaceable the only solution to that is to buy a new one.
